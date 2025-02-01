@@ -32,7 +32,7 @@
     "dependencies": {
         "@material/radio": "4.0.0",
         "@material/switch": "4.0.0",
-        "firebase-tools": "13.29.1",
+        "firebase-tools": "13.29.2",
         "preact": "10.19.3",
         "preact-iso": "2.8.1",
         "preact-markup": "2.1.1",
